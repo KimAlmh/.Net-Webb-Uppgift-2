@@ -1,0 +1,16 @@
+
+#tabell tbody, thead{
+    text-align: center;
+    border-right: 1px solid black;
+    
+}
+#tabell td:last-child{
+    border-right: none;
+}
+#tabell{
+    border: 2px black solid;
+}
+#inputs {
+    margin-top: 50px;
+    margin-bottom: 12px;
+}
